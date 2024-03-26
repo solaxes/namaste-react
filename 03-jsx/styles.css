@@ -1,7 +1,7 @@
-#heading1 {
-  color: green;
+.heading {
+  color: red;
 }
 
-#heading2 {
+.para {
   color: blue;
 }
