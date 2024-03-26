@@ -1,0 +1,21 @@
+{
+  "name": "solaxes-technologies",
+  "version": "1.0.0",
+  "description": "This is react by Jaidev bangar at Solaxes Technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "solaxes",
+    "solaxes technologies",
+    "jaidev",
+    "bangar"
+  ],
+  "author": "Jaidev Bangar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
